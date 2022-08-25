@@ -99,9 +99,9 @@ $db['default'] = array(
 $db['default'] = array(
     'dsn'	=> 'mysql:host=localhost;dbname=callgettv',
     'hostname' => 'localhost',
-    'username' => 'callgettv',
-    'password' => 'all!@right0710!!',
-    'database' => 'callgettv',
+    'username' => '',
+    'password' => '',
+    'database' => '',
     'dbdriver' => 'pdo',
     'dbprefix' => '',
     'pconnect' => FALSE,
