@@ -185,17 +185,7 @@
 		})(148878, 'AZ-50-A', 'atm.acecounter.com', 'ac' + '.js', window._AceTM || {});
 	</script>
 	<!--AceCounter-Plus Log Gathering for AceTag Manager End -->
-	<script type="application/ld+json">
-		{
-			"@context": "http://schema.org",
-			"@type": "Organization",
-			"name": "콜겟TV",
-			"url": "https://callgettv.com",
-			"sameAs": [
-				"https://www.youtube.com/channel/UCJN_MRZTG_2l0TL7yJYeE6A",
-			]
-		}
-	</script>
+	
 </head>
 
 <body>
