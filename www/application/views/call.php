@@ -9,7 +9,7 @@
     <meta name="description" content="Callget">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
-    <!-- 페이지 로드시마다 페이지를 캐싱하지 않음 -->
+    <!-- 페이지 로드시마다 페이지를 캐싱하지 않 음 -->
     <meta http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
 
     <link href="/assets/images/favicon/favicon.png" rel="shortcut icon" type="image/x-icon">
